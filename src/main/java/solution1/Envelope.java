@@ -1,4 +1,4 @@
-package com.huawei.solution1;
+package solution1;
 
 import java.util.Objects;
 

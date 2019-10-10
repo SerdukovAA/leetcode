@@ -1,5 +1,3 @@
-package com.huawei.refactoring;
-
 public class ReverseIntegers {
 
 

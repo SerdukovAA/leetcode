@@ -1,5 +1,3 @@
-package com.huawei.refactoring;
-
 import java.util.HashMap;
 import java.util.Map;
 

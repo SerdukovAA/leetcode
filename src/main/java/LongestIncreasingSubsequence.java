@@ -1,5 +1,3 @@
-package com.huawei.refactoring;
-
 //300
 public class LongestIncreasingSubsequence {
 

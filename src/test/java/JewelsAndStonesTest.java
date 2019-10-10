@@ -1,5 +1,3 @@
-package com.huawei.refactoring;
-
 import org.junit.Assert;
 import org.junit.Test;
 

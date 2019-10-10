@@ -1,7 +1,4 @@
-package com.huawei.refactoring.solution1;
-
-import com.huawei.solution1.Envelope;
-import com.huawei.solution1.EnvelopeService;
+import solution1.EnvelopeService;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
