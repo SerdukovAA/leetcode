@@ -1,6 +1,7 @@
 package com.huawei.solution1;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class EnvelopeService {
 
@@ -10,13 +11,7 @@ public class EnvelopeService {
         if(envelopes == null || envelopes.length == 0 ){
             return 0;
         }
-        Arrays.sort(envelopes, (e1, e2) -> {
-            if(e1[0] != e2[0]){
-                return e1[0] - e2[0];
-            }else{
-                return e1[1] - e2[1];
-            }
-        });
+        Arrays.sort(envelopes, Comparator.comparingInt(e -> e[0]));
 
         int max = 1;
         int[] arr = new int[envelopes.length];
