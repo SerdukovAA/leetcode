@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c8f816-eda2-4548-bf42-8136e598bc83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ToLowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ToLowerCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeTwoSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MergeTwoSortedListsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -15,18 +15,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/refactoring/JewelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JewelsAndStones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/refactoring/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/refactoring/ReverseIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReverseIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/solution1/Envelope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solution1/Envelope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/solution1/EnvelopeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solution1/EnvelopeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/huawei/solution1/EnvelopeServiceAnotherTry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solution1/EnvelopeServiceAnotherTry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/huawei/refactoring/JewelsAndStonesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JewelsAndStonesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/huawei/refactoring/LongestIncreasingSubsequenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LongestIncreasingSubsequenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/huawei/refactoring/ReverseIntegersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReverseIntegersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/huawei/refactoring/solution1/Solution1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Solution1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimplifyPath.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +65,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.huawei.refactoring" />
       <recent name="" />
+      <recent name="com.huawei.refactoring" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -90,13 +81,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ToLowerCaseTest.test1">
-    <configuration name="LongestIncreasingSubsequenceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MergeTwoSortedListsTest.test">
+    <configuration name="SimplifyPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimplifyPath" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedListsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.huawei.refactoring.LongestIncreasingSubsequenceTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;MergeTwoSortedListsTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -111,12 +109,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="LongestIncreasingSubsequenceTest.test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MergeTwoSortedListsTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.huawei.refactoring.LongestIncreasingSubsequenceTest.test2&quot;" />
+        <option name="scriptParameters" value="--tests &quot;MergeTwoSortedListsTest.test&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -131,32 +129,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Solution1Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MergeTwoSortedListsTest.test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.huawei.refactoring.solution1.Solution1Test&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="ToLowerCaseTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ToLowerCaseTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;MergeTwoSortedListsTest.test2&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -193,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MergeTwoSortedListsTest.test" />
+        <item itemvalue="Gradle.MergeTwoSortedListsTest.test2" />
+        <item itemvalue="Gradle.MergeTwoSortedListsTest" />
+        <item itemvalue="Application.SimplifyPath" />
         <item itemvalue="Gradle.ToLowerCaseTest.test1" />
-        <item itemvalue="Gradle.ToLowerCaseTest" />
-        <item itemvalue="Gradle.Solution1Test" />
-        <item itemvalue="Gradle.LongestIncreasingSubsequenceTest" />
-        <item itemvalue="Gradle.LongestIncreasingSubsequenceTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +194,10 @@
       <workItem from="1570309788577" duration="1158000" />
       <workItem from="1570517910415" duration="2481000" />
       <workItem from="1570606546988" duration="1084000" />
-      <workItem from="1570686040793" duration="1779000" />
+      <workItem from="1570686040793" duration="2030000" />
+      <workItem from="1570689685210" duration="734000" />
+      <workItem from="1570690569630" duration="1909000" />
+      <workItem from="1571929150303" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="huawei">
       <created>1570518000543</created>
@@ -239,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570686122850</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+1">
+      <created>1570688019559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570688019559</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +249,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="huawei" />
     <MESSAGE value="300" />
-    <option name="LAST_COMMIT_MESSAGE" value="300" />
+    <MESSAGE value="+1" />
+    <option name="LAST_COMMIT_MESSAGE" value="+1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -270,6 +259,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/IntersectionOfThreeSortedArraysTest.java</url>
           <line>19</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MergeTwoSortedListsTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
