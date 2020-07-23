@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45c8f816-eda2-4548-bf42-8136e598bc83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/I_11431_Kids_With_the_Greatest_Number_of_Candies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/I_88_Merge_Sorted_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -65,15 +65,15 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="com.huawei.refactoring" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
   </component>
-  <component name="RunManager" selected="Gradle.I_11431_Kids_With_the_Greatest_Number_of_Candies.test">
+  <component name="RunManager" selected="Gradle.I_88_Merge_Sorted_Array.test3">
     <configuration name="I_11431_Kids_With_the_Greatest_Number_of_Candies.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -93,12 +93,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="I_1518_Water_Bottles.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="I_88_Merge_Sorted_Array" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;I_1518_Water_Bottles.test&quot;" />
+        <option name="scriptParameters" value="--tests &quot;I_88_Merge_Sorted_Array&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -112,18 +112,17 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SplitStringBalancedStringsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="I_88_Merge_Sorted_Array.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;SplitStringBalancedStringsTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;I_88_Merge_Sorted_Array.test&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -132,18 +131,17 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SplitStringBalancedStringsTest.test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="I_88_Merge_Sorted_Array.test2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;SplitStringBalancedStringsTest.test2&quot;" />
+        <option name="scriptParameters" value="--tests &quot;I_88_Merge_Sorted_Array.test2&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -152,12 +150,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="WordPattern_290Test.test1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="I_88_Merge_Sorted_Array.test3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;WordPattern_290Test.test1&quot;" />
+        <option name="scriptParameters" value="--tests &quot;I_88_Merge_Sorted_Array.test3&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -173,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.I_88_Merge_Sorted_Array.test3" />
+        <item itemvalue="Gradle.I_88_Merge_Sorted_Array" />
+        <item itemvalue="Gradle.I_88_Merge_Sorted_Array.test2" />
+        <item itemvalue="Gradle.I_88_Merge_Sorted_Array.test" />
         <item itemvalue="Gradle.I_11431_Kids_With_the_Greatest_Number_of_Candies.test" />
-        <item itemvalue="Gradle.I_1518_Water_Bottles.test" />
-        <item itemvalue="Gradle.WordPattern_290Test.test1" />
-        <item itemvalue="Gradle.SplitStringBalancedStringsTest" />
-        <item itemvalue="Gradle.SplitStringBalancedStringsTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +201,8 @@
       <workItem from="1572197084873" duration="2624000" />
       <workItem from="1592739489271" duration="1567000" />
       <workItem from="1595275156094" duration="3122000" />
-      <workItem from="1595361601534" duration="1304000" />
+      <workItem from="1595361601534" duration="1793000" />
+      <workItem from="1595435111861" duration="2461000" />
     </task>
     <task id="LOCAL-00001" summary="huawei">
       <created>1570518000543</created>
@@ -247,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595279084817</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="I_11431_Kids_With_the_Greatest_Number_of_Candies">
+      <created>1595363384434</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1595363384434</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,53 +277,54 @@
     <MESSAGE value="+1" />
     <MESSAGE value="290. Word Pattern" />
     <MESSAGE value="1518 Water Bottles" />
-    <option name="LAST_COMMIT_MESSAGE" value="1518 Water Bottles" />
+    <MESSAGE value="I_11431_Kids_With_the_Greatest_Number_of_Candies" />
+    <option name="LAST_COMMIT_MESSAGE" value="I_11431_Kids_With_the_Greatest_Number_of_Candies" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="632" y="541" key="#xdebugger.evaluate" timestamp="1595362942330">
+    <state x="632" y="541" key="#xdebugger.evaluate" timestamp="1595436872559">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="632" y="541" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1595362942330" />
-    <state x="473" y="135" key="CommitChangelistDialog2" timestamp="1595279084554">
+    <state x="632" y="541" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1595436872559" />
+    <state x="473" y="135" key="CommitChangelistDialog2" timestamp="1595363384309">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="473" y="135" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1595279084554" />
-    <state width="1750" height="447" key="GridCell.Tab.0.bottom" timestamp="1595363057720">
+    <state x="473" y="135" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1595363384309" />
+    <state width="1750" height="447" key="GridCell.Tab.0.bottom" timestamp="1595437289256">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057720" />
-    <state width="1750" height="447" key="GridCell.Tab.0.center" timestamp="1595363057720">
+    <state width="1750" height="447" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289256" />
+    <state width="1750" height="447" key="GridCell.Tab.0.center" timestamp="1595437289255">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057720" />
-    <state width="1750" height="447" key="GridCell.Tab.0.left" timestamp="1595363057719">
+    <state width="1750" height="447" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289255" />
+    <state width="1750" height="447" key="GridCell.Tab.0.left" timestamp="1595437289255">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057719" />
-    <state width="1750" height="447" key="GridCell.Tab.0.right" timestamp="1595363057720">
+    <state width="1750" height="447" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289255" />
+    <state width="1750" height="447" key="GridCell.Tab.0.right" timestamp="1595437289255">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057720" />
-    <state width="1750" height="447" key="GridCell.Tab.1.bottom" timestamp="1595363057721">
+    <state width="1750" height="447" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289255" />
+    <state width="1750" height="447" key="GridCell.Tab.1.bottom" timestamp="1595437289257">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057721" />
-    <state width="1750" height="447" key="GridCell.Tab.1.center" timestamp="1595363057721">
+    <state width="1750" height="447" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289257" />
+    <state width="1750" height="447" key="GridCell.Tab.1.center" timestamp="1595437289257">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057721" />
-    <state width="1750" height="447" key="GridCell.Tab.1.left" timestamp="1595363057721">
+    <state width="1750" height="447" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289257" />
+    <state width="1750" height="447" key="GridCell.Tab.1.left" timestamp="1595437289256">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057721" />
-    <state width="1750" height="447" key="GridCell.Tab.1.right" timestamp="1595363057721">
+    <state width="1750" height="447" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289256" />
+    <state width="1750" height="447" key="GridCell.Tab.1.right" timestamp="1595437289257">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="447" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595363057721" />
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1595279086580">
+    <state width="1750" height="447" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1595437289257" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1595363386547">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1595279086580" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1595363386547" />
     <state x="684" y="481" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595276183333">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -343,11 +350,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/MergeTwoSortedListsTest.java</url>
           <line>28</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/I_11431_Kids_With_the_Greatest_Number_of_Candies.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
